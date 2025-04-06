@@ -11,7 +11,7 @@ Filter projects by client ID
 
 Installation:-
 Clone the repository:
-git clone https://github.com/Rohitmhatugade/NimapProject.git
+git clone https://github.com/Rohitmhatugade/NimapProject-.git
 cd NimapProject
 Create a virtual environment:
 python -m venv env
